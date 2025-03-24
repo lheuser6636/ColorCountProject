@@ -1,0 +1,9 @@
+C:\Users\user\Source\Repos\ColorCountProject\ColorCountProject\bin\x64\Debug\ColorCountProject.exe.config
+C:\Users\user\Source\Repos\ColorCountProject\ColorCountProject\bin\x64\Debug\ColorCountProject.exe
+C:\Users\user\Source\Repos\ColorCountProject\ColorCountProject\bin\x64\Debug\ColorCountProject.pdb
+C:\Users\user\Source\Repos\ColorCountProject\ColorCountProject\obj\x64\Debug\ColorCountProject.csproj.AssemblyReference.cache
+C:\Users\user\Source\Repos\ColorCountProject\ColorCountProject\obj\x64\Debug\ColorCountProject.Properties.Resources.resources
+C:\Users\user\Source\Repos\ColorCountProject\ColorCountProject\obj\x64\Debug\ColorCountProject.csproj.GenerateResource.cache
+C:\Users\user\Source\Repos\ColorCountProject\ColorCountProject\obj\x64\Debug\ColorCountProject.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\ColorCountProject\ColorCountProject\obj\x64\Debug\ColorCountProject.exe
+C:\Users\user\Source\Repos\ColorCountProject\ColorCountProject\obj\x64\Debug\ColorCountProject.pdb
